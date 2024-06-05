@@ -2,7 +2,7 @@ with
 
 source as (
 
-    select * from `shipyard-demos.shipyard_demo.raw_supplies`
+    select * from `shipyard-demos.shipyard_demos.raw_supplies`
 
 ),
 
